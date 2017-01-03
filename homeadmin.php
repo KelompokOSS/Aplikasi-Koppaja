@@ -57,9 +57,9 @@ function slideSwitch() {
         <ul>
 		<li><a href="index.php">HOME</a></li>
         		<!--<li><a href="#">KOPPAJA</a>
-			<ul>
-				<li><a href="user/kopbog.php">KOPPAJA BOGOR</a></li>
-				<li><a href="user/kopjak.php">KOPPAJA JAKARTA</a></li>
+			<ul><br>
+                            <li><a href="user/kopbog.php">KOPPAJA BOGOR</a></li></br>
+                            <br><li><a href="user/kopjak.php">KOPPAJA JAKARTA</a></li></br>
                 <li><a href="user/kopbek.php">KOPPAJA BEKASI</a></li>
 			</ul>-->
             
