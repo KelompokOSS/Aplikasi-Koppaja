@@ -1,0 +1,61 @@
+nav ul ul {
+ display: none;
+}
+
+nav ul li:hover > ul {
+ display: block;
+}
+nav ul {
+	background: #A52A2A;
+	padding: 0px 0px;
+	list-style: none;
+	position: relative;
+	display: inline-table;
+	background-color: #000000;
+	width: 1000px;
+	height: 100%;
+
+}
+nav ul:after {
+ content: ""; clear: both; display: block;
+}
+nav ul li {
+ float: left;
+}
+nav ul li:hover {
+	background-color: #FF6600;
+
+}
+nav ul li:hover a {
+	color: #fff;
+	text-align: center;
+ 
+}
+
+nav ul li a {
+ display: block; padding: 10px 20px;
+ color: #FFFFFF; text-decoration: none; 
+ border-left:1px solid #DA81F5;
+ border-right: 1px solid #DA81F5; 
+}
+nav ul ul {
+ background: #DA81F5; border-radius: 0px; padding: 0;
+ position: absolute; top: 100%;  width:162px;
+}
+nav ul ul li {
+ float: none;
+ border-top: 1px solid #A52A2A;
+ border-bottom: 1px solid #A52A2A;
+ position: relative;
+}
+nav ul ul li a {
+ padding: 10px 10px;
+ color: #fff;
+} 
+nav ul ul li a:hover {
+ background: #A52A2A;
+}
+
+nav ul ul ul {
+ position: absolute; left: 100%; top:0px;
+}
