@@ -62,9 +62,9 @@ function slideSwitch() {
 				<li><a href="user/kopjak.php">KOPPAJA JAKARTA</a></li>
                 <li><a href="user/kopbek.php">KOPPAJA BEKASI</a></li>
 			</ul>-->
-            
+		<br>
             <li><a href="biodata.php">Biodata</a></li>
-            <li><a href="beasiswa.php">Program Beasiswa</a>
+		<li><a href="beasiswa.php">Program Beasiswa</a></br>
             	<!--<ul>
                 	<li><a href="#"> Beasiswa </a></li>
                     <li><a href="#"> Beasiswa </a></li>
