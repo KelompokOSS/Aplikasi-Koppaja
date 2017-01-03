@@ -70,7 +70,7 @@ function slideSwitch() {
                 <li><a href="user/kopbek.php">KOPPAJA BEKASI</a></li>
 			</ul>-->
             
-            <li><a href="biodata.php">KELOLA BIODATA</a></li>
+            <li><a href="biodata.php">KELOLA BIODATA</a></li><br>
             <li><a href="beasiswa.php">KELOLA BEASISWA</a>
             	<!--<ul>
                 	<li><a href="#"> Beasiswa </a></li>
