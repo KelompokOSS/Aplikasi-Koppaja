@@ -3,13 +3,13 @@
 <?php
 
 include("functions/functions.php");
-//bismillah
+
 ?>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Data diri</title>
+<title>Data </title>
 <link rel="stylesheet" href="styles/styles.css" media="all" />
 <link rel="shortcut icon" href="codejunkicon.png" />
 <link href="css/menu.css" rel="stylesheet" type="text/css" media="screen"/> 
